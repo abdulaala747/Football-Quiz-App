@@ -1,0 +1,322 @@
+[
+  [
+    {
+      "question": "Which club has won the UEFA Champions League 14 times?",
+      "answers": [
+        "AC Milan",
+        "Liverpool FC",
+        "Real Madrid CF",
+        "FC Bayern Munich"
+      ],
+      "correctAnswer": "Real Madrid CF"
+    },
+    {
+      "question": "Which team has won the FIFA World Cup 5 times?",
+      "answers": [
+        "Italy",
+        "Brazil",
+        "Argentina",
+        "France"
+      ],
+      "correctAnswer": "Brazil"
+    },
+    {
+      "question": "Which club has won the UEFA Champions League in 2023?",
+      "answers": [
+        "Manchester City",
+        "Inter Milan",
+        "Real Madrid CF",
+        "AC Milan"
+      ],
+      "correctAnswer": "Manchester City"
+    }
+  ],
+  [
+    {
+      "question": "Which player has won the Ballon d'Or 8 times?",
+      "answers": [
+        "Cristiano Ronaldo",
+        "Luka Modric",
+        "Ronaldo Nazario",
+        "Lionel Messi"
+      ],
+      "correctAnswer": "Lionel Messi"
+    },
+    {
+      "question": "Which club has won the Premier League 20 times?",
+      "answers": [
+        "Liverpool FC",
+        "Manchester United",
+        "Manchester City",
+        "Everton"
+      ],
+      "correctAnswer": "Manchester United"
+    },
+    {
+      "question": "Which player has won the UEFA Champions League 5 times?",
+      "answers": [
+        "Lionel Messi",
+        "Cristiano Ronaldo",
+        "Neymar JR",
+        "Sergio Ramos"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+    }
+  ],
+  [
+    {
+      "question": "Which club has won the LaLiga 35 times?",
+      "answers": [
+        "Atletico Madrid",
+        "FC Barcelona",
+        "Real Madrid CF",
+        "Athletic Club"
+      ],
+      "correctAnswer": "Real Madrid CF"
+    },
+    {
+      "question": "Which club has won the Serie A 36 times?",
+      "answers": [
+        "Juventus FC",
+        "AC Milan",
+        "Inter Milan",
+        "AS Roma"
+      ],
+      "correctAnswer": "Juventus FC"
+    },
+    {
+      "question": "Which club has won the FIFA Club World Cup 5 times?",
+      "answers": [
+        "FC Barcelona",
+        "FC Bayern Munich",
+        "Real Madrid CF",
+        "Manchester City"
+      ],
+      "correctAnswer": "Real Madrid CF"
+    }
+  ],
+  [
+    {
+      "question": "Which team has won the UEFA European Championship in 2016?",
+      "answers": [
+        "Italy",
+        "Spain",
+        "England",
+        "Portugal"
+      ],
+      "correctAnswer": "Portugal"
+    },
+    {
+      "question": "Which team has won the Copa America in 2021?",
+      "answers": [
+        "Brazil",
+        "Argentina",
+        "Uruguay",
+        "Chile"
+      ],
+      "correctAnswer": "Argentina"
+    },
+    {
+      "question": "Which team has won the UEFA Nations League in 2019?",
+      "answers": [
+        "France",
+        "Spain",
+        "Switzerland",
+        "Portugal"
+      ],
+      "correctAnswer": "Portugal"
+    }
+  ],
+  [
+    {
+      "question": "Which player has won the FIFA The Best in 2017?",
+      "answers": [
+        "Luka Modric",
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Robert Lewandowski"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+    },
+    {
+      "question": "Which club has won the Bundesliga 33 times?",
+      "answers": [
+        "Hamburger SV",
+        "Borussia Dortmund",
+        "FC Schalke 04",
+        "FC Bayern Munich"
+      ],
+      "correctAnswer": "FC Bayern Munich"
+    },
+    {
+      "question": "Which team has won the FIFA World Cup in 2018?",
+      "answers": [
+        "Spain",
+        "France",
+        "Uruguay",
+        "Brazil"
+      ],
+      "correctAnswer": "France"
+    }
+  ],
+  [
+    {
+      "question": "Which club has won the UEFA Champions League in 2015?",
+      "answers": [
+        "FC Barcelona",
+        "Juventus FC",
+        "FC Bayern Munich",
+        "Real Madrid CF"
+      ],
+      "correctAnswer": "FC Barcelona"
+    },
+    {
+      "question": "Which country has hosted the FIFA World Cup in 2010?",
+      "answers": [
+        "Italy",
+        "Qatar",
+        "Spain",
+        "South Africa"
+      ],
+      "correctAnswer": "South Africa"
+    },
+    {
+      "question": "Which player has won the FIFA Club World Cup 6 times?",
+      "answers": [
+        "Sergio Ramos",
+        "Toni Kroos",
+        "Lionel Messi",
+        "Xavi"
+      ],
+      "correctAnswer": "Toni Kroos"
+    }
+  ],
+  [
+    {
+      "question": "Which club has won the UEFA Europa League 5 times?",
+      "answers": [
+        "Sevilla FC",
+        "Atletico Madrid",
+        "Juventus FC",
+        "Liverpool FC"
+      ],
+      "correctAnswer": "Sevilla FC"
+    },
+    {
+      "question": "Which team has won the UEFA European Championship in 2008 & 2012?",
+      "answers": [
+        "Italy",
+        "Portugal",
+        "Spain",
+        "Netherlands"
+      ],
+      "correctAnswer": "Spain"
+    },
+    {
+      "question": "Which club has won UEFA Super Cup 5 times?",
+      "answers": [
+        "Atletico Madrid",
+        "Liverpool FC",
+        "Chelsea FC",
+        "FC Barcelona"
+      ],
+      "correctAnswer": "FC Barcelona"
+    }
+  ],
+  [
+    {
+      "question": "Which player has won the Ballon d'Or in 2019?",
+      "answers": [
+        "Cristiano Ronaldo",
+        "Lionel Messi",
+        "Karim Benzema",
+        "Ronaldinho"
+      ],
+      "correctAnswer": "Lionel Messi"
+    },
+    {
+      "question": "Which team has won the FIFA World Cup only once?",
+      "answers": [
+        "England",
+        "Uruguay",
+        "France",
+        "Argentina"
+      ],
+      "correctAnswer": "England"
+    },
+    {
+      "question": "Which manager has won the Premier League 13 times?",
+      "answers": [
+        "Arsene Wenger",
+        "Pep Guardiola",
+        "Jose Mourinho",
+        "Sir Alex Ferguson"
+      ],
+      "correctAnswer": "Sir Alex Ferguson"
+    }
+  ],
+  [
+    {
+      "question": "Which player was the top scorer of FIFA World Cup 2022?",
+      "answers": [
+        "Olivier Giroud",
+        "Kylian Mbappe",
+        "Alvaro Morata",
+        "Lionel Messi"
+      ],
+      "correctAnswer": "Kylian Mbappe"
+    },
+    {
+      "question": "Which team has won the UEFA Nations League in 2023?",
+      "answers": [
+        "Portugal",
+        "France",
+        "Spain",
+        "Croatia"
+      ],
+      "correctAnswer": "Spain"
+    },
+    {
+      "question": "Which player is the all-time top goal scorer of UEFA Champions League?",
+      "answers": [
+        "Robert Lewandowski",
+        "Karim Benzema",
+        "Lionel Messi",
+        "Cristiano Ronaldo"
+      ],
+      "correctAnswer": "Cristiano Ronaldo"
+    }
+  ],
+  [
+    {
+      "question": "Which club has won the UEFA Europa League in 2022?",
+      "answers": [
+        "Sevilla FC",
+        "Chelsea FC",
+        "Eintracht Frankfurt",
+        "Villarreal FC"
+      ],
+      "correctAnswer": "Eintracht Frankfurt"
+    },
+    {
+      "question": "Which team has won the FIFA World Cup 4 times?",
+      "answers": [
+        "Spain",
+        "Germany",
+        "France",
+        "Argentina"
+      ],
+      "correctAnswer": "Germany"
+    },
+    {
+      "question": "Which club has won the UEFA Champions League 7 times?",
+      "answers": [
+        "AC Milan",
+        "Liverpool FC",
+        "FC Barcelona",
+        "FC Bayern Munich"
+      ],
+      "correctAnswer": "AC Milan"
+    }
+  ]
+]
