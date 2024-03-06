@@ -41,7 +41,7 @@ body {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-    margin: 0 500px;
+    margin: 0 100px;
   }
   
   .quiz-card {
